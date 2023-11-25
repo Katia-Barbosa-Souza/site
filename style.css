@@ -14,6 +14,18 @@ body {
     margin: 20px 0;
 }
 
+ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+ul li {
+    margin: 5px o;
+}
+
 a {
     color: purple;
     text-decoration: none;
